@@ -1,5 +1,5 @@
 ## Hello, world! I'm ayu 👋 
-🌱 I am someone with a high enthusiasm for continuous growth and learning new things, with a strong interest in deepening my knowledge in the fields of data and business
+🌱 I am person with a high enthusiasm for continuous growth and learning new things, with a strong interest in deepening my knowledge in the fields of data and business
 
 ### 🤖 Technical and tools
 * Programming Languages: Python and SQL
